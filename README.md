@@ -56,6 +56,11 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+<img width="362" height="147" alt="image" src="https://github.com/user-attachments/assets/198fb4eb-dbf2-4c70-8449-f106b358b633" />
+
 **Output/TIMING Waveform**
+<img width="1918" height="393" alt="image" src="https://github.com/user-attachments/assets/37c69678-c631-4b0b-89b9-6da3854705da" />
+
 
 **Result:**
+
